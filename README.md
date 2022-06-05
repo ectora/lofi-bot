@@ -8,5 +8,5 @@ Play Lo-fi with a bot for your server. Uses Lavalink for stability and improved 
 3. Set your Bot Token in the `.env` file.
 4. And you're done. The bot should be up.
 
-Available commands: `listen, stop, volume, ping`
+Available commands: `listen, stop, volume, ping` \
 Tip: You can replace the YouTube URL of the livestream in the `Listen.js` file.
