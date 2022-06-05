@@ -1,0 +1,8 @@
+{
+      "nodes": [
+            {
+                  "id": "Tree-1", "hostname": "lava.link",
+                  "password": "larpmusic", "port": 80, "secure": false
+            }
+      ]
+}
