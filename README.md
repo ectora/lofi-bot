@@ -9,7 +9,7 @@ Icecast or SHOUTcast streams work fine, except for when it requires authenticati
    - You can host one via your own VPS, just find tutorials on youtube on how to how your own lavalink server.
 3. Add your Lavalink Node Info in the `config.json` file.
 4. Set your Bot Token in the `.env` file.
-5. And you're done. The bot should be up.
+5. And you're done. Run the command `node .` and the bot should be up.
 
 Available commands: `listen, stop, volume, ping` \
 Tip: You can replace the YouTube URL of the livestream in the `Listen.js` file.
