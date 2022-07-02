@@ -1,5 +1,7 @@
 # lofi-bot
-Play Lo-fi with a bot for your server. Uses Lavalink for stability and improved performance.
+Play Lo-fi with a bot for your server. Uses Lavalink for stability and improved performance. \
+[*You can also use this with Volcano, which is a Lavalink clone but rewritten in TypeScript.*](https://github.com/AmandaDiscord/Volcano/) \
+Icecast or SHOUTcast streams work fine, except for when it requires authentication or stream gets interrupted.
 
 ## Installation and setup
 1. Install all dependencies. *How will it work if you don't? It can't*
