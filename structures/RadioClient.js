@@ -7,11 +7,7 @@ module.exports = class RadioClient extends Client {
       constructor(config) {
             super({
                   allowedMentions: { users: [], repliedUser: false },
-                  intents: [
-                        'GUILDS', 'GUILD_MESSAGES',
-                        'GUILD_MEMBERS', 'GUILD_VOICE_STATES',
-                        'GUILD_PRESENCES'
-                  ]
+                  intents: ['Guilds', 'GuildMessages', 'GuildMembers', 'MessageContent']
             });
             
             this.validate(config);
